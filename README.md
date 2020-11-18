@@ -37,6 +37,38 @@ Usage: SharpCheckInfo -All
 - PowerShell Constrained Mode
 - Existance of LAPS
 
+## Default PowerShell history files
+
+`C:\Users\xxx\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadline\ConsoleHost_history.txt`
+
+## Installed Microsoft.NET versions
+
+```
+	C:\Windows\Microsoft.NET\Framework\v1.0.3705
+	C:\Windows\Microsoft.NET\Framework\v1.1.4322
+	C:\Windows\Microsoft.NET\Framework\v2.0.50727
+	C:\Windows\Microsoft.NET\Framework\v4.0.30319
+```
+
+## Recently accessed files
+
+```
+ C:\Users\xxx\AppData\Roaming\Microsoft\Windows\Recent
+```
+
+## NetworkConnentions
+
+`netstat -ano |findstr ESTABLISHED`
+
+```
+  TCP    172.16.242.133:51608   52.139.250.253:443     ESTABLISHED     472
+  TCP    172.16.242.133:51764   117.18.232.200:443     ESTABLISHED     6792
+  TCP    172.16.242.133:51884   111.221.29.254:443     ESTABLISHED     5828
+```
+
+## PowerShell Versions
+
+`C:\windows\System32\WindowsPowershell\v1.0`
 
 ### av list
 
