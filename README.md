@@ -61,9 +61,9 @@ Usage: SharpCheckInfo -All
 `netstat -ano |findstr ESTABLISHED`
 
 ```
-  TCP    172.16.242.133:51608   52.139.250.253:443     ESTABLISHED     472
-  TCP    172.16.242.133:51764   117.18.232.200:443     ESTABLISHED     6792
-  TCP    172.16.242.133:51884   111.221.29.254:443     ESTABLISHED     5828
+  TCP    172.16.242.133:51608   x.x.x.x:443     ESTABLISHED     472
+  TCP    172.16.242.133:51764   x.x.x.x:443     ESTABLISHED     6792
+  TCP    172.16.242.133:51884   x.x.x.x:443     ESTABLISHED     5828
 ```
 
 ## PowerShell Versions
